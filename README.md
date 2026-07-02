@@ -2,7 +2,7 @@
 
 Post-quantum provenance: what survives Q-day in an execution-receipt system, what breaks, and what it costs to fix.
 
-Status: draft v0 · Author: Pavlo Shtomko (@pipavlo82) · Scope: ReceiptOS / Chronicle / Crystal Artifact, with direct mappings to ATP Proof-of-Cognition receipts and ERC-8313 signature profiles.
+Status: draft v0 · Author: Pavlo Tvardovskyi (@pipavlo82) · Scope: ReceiptOS / Chronicle / Crystal Artifact, with direct mappings to ATP Proof-of-Cognition receipts and ERC-8313 signature profiles.
 
 ---
 
