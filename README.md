@@ -6,6 +6,8 @@ Status: draft v0 · Author: Pavlo Tvardovskyi (@pipavlo82) · Scope: ReceiptOS /
 
 ---
 
+Core formulations: see [Canonical Principles](PRINCIPLES.md).
+
 ## 0. Why this document exists
 
 A receipt is a long-lived object. Its entire value is deferred: it is verified *later* — in a dispute next year, an audit in five, a reputation history in ten. Any receipt system therefore inherits a threat most execution systems can ignore: record now, forge later.
